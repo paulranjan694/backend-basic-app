@@ -1,0 +1,23 @@
+{
+  "name": "socialapp",
+  "version": "1.0.0",
+  "description": "a basic social media app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "rest-api"
+  ],
+  "author": "Ranjan Paul",
+  "license": "ISC",
+  "dependencies": {
+    "date-format": "^4.0.3",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
